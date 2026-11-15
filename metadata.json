@@ -1,0 +1,7 @@
+{
+    "name": "Ptyxis Chromaleon",
+    "uuid": "ptyxis-chromaleon@sunilsimha.github.io",
+    "description": "Tints a Ptyxis profile like ChromaLeon tints GTK windows. Follows ChromaLeon's colors whenever they change.",
+    "shell-version": ["51"],
+    "version": 1
+}
